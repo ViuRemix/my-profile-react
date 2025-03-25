@@ -12,7 +12,7 @@ const Header = () => {
 
   return (
     <header className={styles.headerContainer}>
-      <h1 className={styles.logo}>Rmah Viu.</h1>
+      <h1 className={styles.logo}>Viu Gaming.</h1>
 
       <nav className={styles.navMenu}>
         <a href="#home" className={styles.activeNavLink}>
